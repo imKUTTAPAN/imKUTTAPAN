@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imKUTTAPAN
 - 👀 I’m interested in tech, 
-- 🌱 I’m currently learning NOTHING 
-- 💞️ I’m looking to collaborate on NOTHING
+- 🌱 I’m currently learning python(just started)
+- 💞️ I’m looking to collaborate on a music player i'm "trying" to make
 - 📫 How to reach me insta- no.one_editz
 
 <!---
